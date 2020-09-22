@@ -9,6 +9,7 @@ I think I could split my own private world in two parts — sports and technolog
 <br></br>
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=DominikMarciniszyn&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/DominikMarciniszyn/github-readme-stats)
+<br></br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DominikMarciniszyn&hide=javascript,html&langs_count=5)](https://github.com/DominikMarciniszyn/github-readme-stats)
 
 ### 📕 Latest Blog Posts
